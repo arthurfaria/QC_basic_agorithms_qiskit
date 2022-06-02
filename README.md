@@ -1,5 +1,7 @@
 # Basic Agorithms in _Qiskit_
 
+This repository contains the some basic algorithms implemented in Qiskit. They are:
+
 1. Quantum Key Distribution (QKD)
 2. Teleportation protocol
 3. Deutsch-Jozsa
