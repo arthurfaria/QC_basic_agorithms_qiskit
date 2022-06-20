@@ -8,3 +8,8 @@ This repository contains the some basic algorithms implemented in Qiskit. They a
 4. VQE for molecules
 5. One way quantum computer (1WQC)
 6. Basic quantum error correction: Bit Flip, Phase Flip and Shor Codes
+
+
+## Extras
+
+1. Quantum Algorithm Implementations for Beginners: https://arxiv.org/abs/1804.03719
