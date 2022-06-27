@@ -5,7 +5,7 @@ This repository contains the some basic algorithms implemented in Qiskit. They a
 1. Quantum Key Distribution (QKD)
 2. Teleportation protocol
 3. Deutsch-Jozsa
-4. VQE for molecules - _in preparation_
+4. VQE for a HF molecule - _in preparation_
 5. One way quantum computer (1WQC) - _in preparation_
 6. Basic quantum error correction: Bit Flip, Phase Flip and Shor Codes
 
